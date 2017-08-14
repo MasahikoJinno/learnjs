@@ -1,0 +1,24 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "description": "### Beta 3 Changes",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasahikoJinno/learnjs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasahikoJinno/learnjs/issues"
+  },
+  "homepage": "https://github.com/MasahikoJinno/learnjs#readme",
+  "devDependencies": {
+    "connect": "^3.6.3",
+    "livereload": "^0.6.2",
+    "serve-static": "^1.12.4"
+  }
+}
